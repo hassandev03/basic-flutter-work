@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:vibe_chat/ui/authentication/screens/signup_screen.dart';
+import 'package:vibe_chat/modules/authentication/screens/signup_screen.dart';
 
 final lightTheme = ThemeData.light(
   useMaterial3: true,

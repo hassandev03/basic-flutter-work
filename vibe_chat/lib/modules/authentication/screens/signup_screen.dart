@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vibe_chat/ui/authentication/widgets/auth_button.dart';
-import 'package:vibe_chat/ui/authentication/widgets/text_field.dart';
+import 'package:vibe_chat/modules/authentication/widgets/auth_button.dart';
+import 'package:vibe_chat/modules/authentication/widgets/text_field.dart';
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({super.key});
